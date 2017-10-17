@@ -1,9 +1,9 @@
-import React, { Component } from 'react'
-import PropTypes            from 'prop-types'
-import Validator            from 'validator'
+import React     from 'react'
+import PropTypes from 'prop-types'
+import Validator from 'validator'
 
 export default (Component) => {
-  return class FormComponent extends Component {
+  return class FormComponent extends React.Component {
     static propTypes = {
       name           : PropTypes.string.isRequired,
       disabled       : PropTypes.bool,
