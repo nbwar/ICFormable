@@ -14,7 +14,7 @@ ICFormable provides a consistent way to create forms, inputs, and validations us
 **install**
 
 ```
-npm install icformable
+npm install ic-formable
 ```
 
 #### Components

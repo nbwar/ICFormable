@@ -1,5 +1,5 @@
 {
-  "name": "icformable",
+  "name": "ic-formable",
   "version": "1.0.0",
   "description": "A react form library",
   "main": "src/index.js",
