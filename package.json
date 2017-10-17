@@ -1,6 +1,6 @@
 {
   "name": "ic-formable",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A react form library",
   "main": "src/index.js",
   "repository": {
